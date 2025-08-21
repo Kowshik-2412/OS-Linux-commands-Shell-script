@@ -2,7 +2,7 @@
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
-# Name : k=Kowshik P
+# Name : Kowshik P
 # reg no : 212224040164
 # AIM:
 To practice Linux Commands and Shell Scripting
